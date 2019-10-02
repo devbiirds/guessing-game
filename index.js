@@ -1,3 +1,3 @@
-const GuessingGame = require('./src/guessing-game.js');
+const GuessingGame = require('/RS_School/Algoritm Tasks/guessing-game/src/guessing-game.js');
 
 window.game = new GuessingGame();
